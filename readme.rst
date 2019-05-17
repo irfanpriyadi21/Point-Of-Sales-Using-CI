@@ -1,8 +1,11 @@
+Aplikasi Kasir Ini Dibuat Oleh Irfan Priyadi Nurfauzi
+Ini adalah aplikasi Saya Saat ujikom 2019 
+Harap Izin Terlebih Dahulu Jika Ingin Me Repost !!!
+
 ###################
 What is CodeIgniter
 ###################
 
-![Screenshot](Screenshot(110).png)
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
 who build web sites using PHP. Its goal is to enable you to develop projects
