@@ -9,7 +9,7 @@ Ini adalah aplikasi Saya Saat ujikom 2019 .
 Harap Izin Terlebih Dahulu Jika Ingin Me Repost !!!.
 
 Screenshot :
-https://github.com/irfanpriyadi21/Point-Of-Sales-Using-CI/blob/master/ss.pnghttps://github.com/irfanpriyadi21/Point-Of-Sales-Using-CI/blob/master/ss.png
+https://github.com/irfanpriyadi21/Point-Of-Sales-Using-CI/blob/master/ss.png
 
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
