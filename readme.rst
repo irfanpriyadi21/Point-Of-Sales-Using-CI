@@ -10,9 +10,7 @@ Harap Izin Terlebih Dahulu Jika Ingin Me Repost !!!.
 
 Screenshot :
 
-<p float="left">
-  <img src="/ss.png" width="200" />
-</p>
+![alt text](https://github.com/irfanpriyadi21/Point-Of-Sales-Using-CI/blob/master/ss.png)
  
 
 
