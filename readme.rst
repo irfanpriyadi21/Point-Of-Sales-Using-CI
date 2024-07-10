@@ -10,7 +10,10 @@ Harap Izin Terlebih Dahulu Jika Ingin Me Repost !!!.
 
 Screenshot :
 
- <img src="/ss.png" width="400" />
+<p float="left">
+  <img src="/ss.png" width="200" />
+</p>
+ 
 
 
 
